@@ -20,10 +20,10 @@ jobs:
         dotnet-version: '8.0.x'
 
     - name: Restaurar dependencias
-      run: dotnet restore GestorTareas.sln
+      run: dotnet restore GestorTareas/GestorTareas.sln
 
     - name: Compilar solución
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet build GestorTareas/GestorTareas.sln** --configuration Release --no-restore
 
     - name: Ejecutar tests MSTest
-      run: dotnet test --configuration Release --no-build --verbosity normal
+      run: dotnet test GestorTareas.Test/** --configuration Release --no-build --verbosity normal
