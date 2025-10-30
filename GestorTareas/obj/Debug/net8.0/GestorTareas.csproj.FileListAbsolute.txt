@@ -1,0 +1,14 @@
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\bin\Debug\net8.0\GestorTareas.exe
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\bin\Debug\net8.0\GestorTareas.deps.json
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\bin\Debug\net8.0\GestorTareas.runtimeconfig.json
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\bin\Debug\net8.0\GestorTareas.dll
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\bin\Debug\net8.0\GestorTareas.pdb
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\GestorTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\GestorTareas.AssemblyInfoInputs.cache
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\GestorTareas.AssemblyInfo.cs
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\GestorTareas.dll
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\refint\GestorTareas.dll
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\GestorTareas.pdb
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\GestorTareas.genruntimeconfig.cache
+C:\Users\tiape\OneDrive\Documentos\Facultad - 2025\2do cuatrimestre\Metodología de Sistemas\Testing\GestorTareas\obj\Debug\net8.0\ref\GestorTareas.dll
