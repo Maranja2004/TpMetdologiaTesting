@@ -26,4 +26,4 @@ jobs:
       run: dotnet build GestorTareas/GestorTareas.sln** --configuration Release --no-restore
 
     - name: Ejecutar tests MSTest
-      run: dotnet test GestorTareas.Test/** --configuration Release --no-build --verbosity normal
+      run: dotnet test GestorTareas.Test/TareaTest.cs --configuration Release --no-build --verbosity normal
